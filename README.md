@@ -1,4 +1,4 @@
-# Coursera
+# Coursera Courses Programming Assignments
 This repo contains Coursera Courses Programming Assignments. Courses include:
 - Deep Learning Specialization (deeplearning.ai):
   - Neural Networks and Deep Learning
